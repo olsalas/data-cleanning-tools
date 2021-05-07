@@ -1,0 +1,14 @@
+{
+  "name": "valid-domains",
+  "version": "1.0.0",
+  "description": "Package to check if a domain is valid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-valid-domain": "0.0.19"
+  }
+}
